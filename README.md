@@ -1,2 +1,3 @@
 # Bible
-Bible for all coding
+Bible for all coding.
+To see the actual bible, go to the wiki.
